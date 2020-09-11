@@ -9,8 +9,16 @@ hr {
   border-width: 1px;
 
 }
+body{
+  margin: 0;
+  margin-left:0;
+  margin-right:0;
+}
 h1{
   color: #f76b8a;
+  margin-top: 0;
+  margin-left:0;
+  margin-right:0;
 }
 
 h3{
